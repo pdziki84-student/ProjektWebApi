@@ -53,3 +53,5 @@ D:\NAUKA_C#\WebApi2\RestaurantApi\RestaurantApi\bin\Debug\net5.0\runtimes\win-x8
 D:\NAUKA_C#\WebApi2\RestaurantApi\RestaurantApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\NAUKA_C#\WebApi2\RestaurantApi\RestaurantApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\NAUKA_C#\WebApi2\RestaurantApi\RestaurantApi\obj\Debug\net5.0\RestaurantApi.csproj.CopyComplete
+D:\NAUKA_C#\WebApi2\RestaurantApi\RestaurantApi\bin\Debug\net5.0\AutoMapper.dll
+D:\NAUKA_C#\WebApi2\RestaurantApi\RestaurantApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
